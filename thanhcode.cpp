@@ -8,6 +8,7 @@ int main(){
     cout << n;
     if (n > 0)
     cout << "TOI la Thanh";
+    else 
     cout << endl;
     return 0;
 }
